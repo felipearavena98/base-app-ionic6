@@ -1,0 +1,7 @@
+{
+  "name": "scannercordova",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
