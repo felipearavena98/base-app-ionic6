@@ -8,12 +8,13 @@ import { QrPage } from './qr.page';
 
 import { FormsModule } from '@angular/forms';
 
+
 @NgModule({
     imports: [
         CommonModule,
         IonicModule,
         QrPageRoutingModule,
-        FormsModule
+        FormsModule,
     ],
     declarations: [QrPage]
 })
